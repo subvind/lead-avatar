@@ -7,4 +7,4 @@ roles:
 - https://github.com/trabur/lead-avatar
 - https://github.com/trabur/c-u-l8er-avatar
 
- ![image](lead-avatar.png)
+ ![image](https://raw.githubusercontent.com/trabur/lead-avatar/master/lead-avatar.png)
